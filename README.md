@@ -1,23 +1,23 @@
-# 🛒 Blinkit Sales & Outlet Performance Analysis
+#  Blinkit Sales & Outlet Performance Analysis
 
-## 📌 Overview
+##  Overview
 
 This project focuses on analyzing **Blinkit sales data and outlet performance** using Python.
 The aim is to uncover **business insights**, identify trends, and help improve decision-making.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* 📊 Sales performance analysis
-* 🏬 Outlet-wise comparison
-* 📈 Revenue trends over time
-* 🛍️ Product category insights
-* ⭐ Customer behavior & ratings analysis
+*  Sales performance analysis
+*  Outlet-wise comparison
+*  Revenue trends over time
+*  Product category insights
+*  Customer behavior & ratings analysis
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python 🐍
 * Pandas
@@ -30,7 +30,7 @@ The aim is to uncover **business insights**, identify trends, and help improve d
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 * Total sales and revenue distribution
 * Outlet size and location impact
