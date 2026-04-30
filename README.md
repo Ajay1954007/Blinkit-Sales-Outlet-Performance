@@ -44,8 +44,11 @@ The aim is to uncover **business insights**, identify trends, and help improve d
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Build interactive dashboard (Streamlit / Power BI)
 * Add machine learning predictions
 * Deploy as a web appli
+
+* <img width="1108" height="625" alt="image" src="https://github.com/user-attachments/assets/0cb5010c-3922-4cb2-b245-2bdc98f7379e" />
+
